@@ -2,7 +2,7 @@
 //Program assisted by ChatGPT
 //Last edited on 2023-12-18
 //OS support: Windows/Mac OS (not mobile)
-// VLC must be installed for the audio olay back to work!
+// VLC must be installed for the audio playback to work!
 
 import OpenAI from "openai";
 import readline from "readline";
