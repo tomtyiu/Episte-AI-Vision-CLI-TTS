@@ -35,4 +35,6 @@ Interface:
     
     Please press any key to continue, or Ctrl+C/Ap or type 'END' to exit session:% 
 </samp>
-</pre>    
+</pre>
+
+<p> Please go to Readme.txt for the manual</p>
