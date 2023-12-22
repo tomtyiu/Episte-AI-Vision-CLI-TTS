@@ -27,6 +27,9 @@ Interface:
      Example: 
      Prompt 1: What's in the image?. 
      Prompt 2: Write a short story from the image? **
+
+
+ Please check README.TXT for further instructions
      ----------------------------------
      ---------Powered by OpenAI
     
