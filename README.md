@@ -13,7 +13,7 @@ In order to run the CLI
 <h2>Steps:</h2> 
 
 <b>**OpenAI key is required**</b>
-<p>1. Please ask for email me for OpenAI key or apply online for OpenAI API for openAI key </p>
+<p>1. Please email me for OpenAI key or apply online for OpenAI API for openAI key </p>
 <p>2. Go to Termina/ Command prompt</p>
 
 <samp> node index.js </samp>
