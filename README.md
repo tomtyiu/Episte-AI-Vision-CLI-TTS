@@ -6,12 +6,15 @@ EpisteAI Vision with TTS using GPT-4 Vision model
 <ul> 
  <li>powered by GPT-4 Vision Preview</li>
  <li>Using OpenAI's TTS (Text to Speech) to playback audio after a response from GPT</li>
- <li>allows multiple line prompts or parallel prompts for advance inquires.</li>
-</pre>
-In order to run the CLI
+ <li>allows multiple line prompts or parallel prompts for advance inquiries.</li>
 </ul>
-<h2>Steps:</h2> 
 
+<h2>Version</h2>
+<p>0.02</p>
+
+
+<h2>Steps:</h2> 
+<p>In order to run the CLI</p>
 <b>**OpenAI key is required**</b>
 <p>1. Please email me for OpenAI key or apply online for OpenAI API for openAI key </p>
 <p>2. Go to Termina/ Command prompt</p>
