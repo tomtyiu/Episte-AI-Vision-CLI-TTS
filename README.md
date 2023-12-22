@@ -11,7 +11,11 @@ EpisteAI Vision with TTS using GPT-4 Vision model
 In order to run the CLI
 </ul>
 <h2>Steps:</h2> 
-Go to Termina/ Command prompt
+
+<b>**OpenAI key is required**</b>
+<p>Please ask for email me for OpenAI key or apply online for OpenAI API for openAI key </p>
+
+1. Go to Termina/ Command prompt
 
 <samp> node index.js </samp>
 
