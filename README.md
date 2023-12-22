@@ -5,7 +5,7 @@ EpisteAI Vision with TTS using GPT-4 Vision model
 <h2>Features:</h2>
 <ul> 
  <li>powered by GPT-4 Vision Preview</li>
- <li>Using OpenAI's TTS (Text to Speech) to playback audio after a response from GPT</li>
+ <li>Using OpenAI's TTS* (Text to Speech) to playback audio after a response from GPT</li>
  <li>allows multiple line prompts or parallel prompts for advance inquiries.</li>
 </ul>
 
@@ -40,3 +40,4 @@ Interface:
 </pre>
 
 <p> Please go to Readme.txt for the manual</p>
+<p><b> *Disclosure:  TTS voice you are hearing is AI-generated and not a human voice.</b></p>
