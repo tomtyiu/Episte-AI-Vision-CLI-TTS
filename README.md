@@ -17,7 +17,8 @@ EpisteAI Vision with TTS using GPT-4 Vision model
 <p>In order to run the CLI</p>
 <b>**OpenAI key is required**</b>
 <p>1. Please email me for OpenAI key or apply online for OpenAI API for openAI key% <ahref>https://openai.com/pricing</ahref></p>
-<p>2. Go to Termina/ Command prompt</p>
+<p>2. VLC Media player is required to playback audio</p>
+<p>3. Go to Termina/ Command prompt</p>
 
 <samp> node index.js </samp>
 
