@@ -1,4 +1,4 @@
-# Readme for Parallel ChatGPT CLI
+# Readme for Episte-AI-Vision CLI TTS
 
 ## Introduction
 This Command Line Interface (CLI) application, created by Thomas Yiu, leverages OpenAI's GPT models for parallel processing of prompts along with an image. The program facilitates intelligent conversations and generates audio responses.
